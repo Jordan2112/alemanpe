@@ -1,0 +1,28 @@
+#contenedor{
+
+    border: solid 1px;
+    padding: 10px;
+    width: 80%;
+    margin: 0 auto;
+    background-color:burlywood;
+    
+    }
+    
+    fieldset{
+    border: solid black 1px;
+    
+    
+    }
+    
+    body{
+    
+        background-color: brown;
+    }
+    
+    header{
+    text-align: center;
+    
+    
+    
+    
+    }
