@@ -1,0 +1,29 @@
+.form{
+
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+
+
+body{
+    
+    background-image: url(https://www.pantallasamigas.net/wp-content/uploads/2018/05/identidad-digital.png) 
+    
+}
+body:before{
+
+    
+	background-color: rgba(0,0,0,0.6);
+
+}
+.container{
+    
+   
+    margin: 150px;
+}
