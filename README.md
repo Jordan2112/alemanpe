@@ -1,5 +1,10 @@
-Programacion Web
-Conexión de repositorios
-Alumno: Aleman Perez Jordan Alejandro
+# Programacion web 
 
-18100145
+### Horario 2:00 a 3:00 pm  
+  
+
+##### Alumno: Aleman Perez Jordan Alejandro
+##### Numero de control: #### 
+#### 18100145 ####
+
+
