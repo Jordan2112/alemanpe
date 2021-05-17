@@ -1,18 +1,18 @@
 <?php
 
-    $dbhost = "localhost";
+    $dbserver = "localhost";
     $dbuser = "root";
     $dbpass = "";
     $dbname = "bd";
 
 
-    $conn = mysqli_connect($dbhost, $dbuser,$dbpass,$dbname);
+    $conn = mysqli_connect($dbserver, $dbuser,$dbpass,$dbname);
 
 
     if(!$conn)
     {
 
-        die("No hay concexion: " .mysqli_connect_error());
+        die("Sin conexion: " .mysqli_connect_error());
 
     }
 
