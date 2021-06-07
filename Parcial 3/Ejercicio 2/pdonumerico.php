@@ -14,4 +14,7 @@
     printf("<b>apellidom = </b> %s <br>",$resultado[2]);
     printf("<b>Usuario     = </b> %s <br>",$resultado[3]);
     
+
+
+
 ?>
